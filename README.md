@@ -39,7 +39,7 @@ class BookAdmin(admin.ModelAdmin):
 
 ```
 # OUTPUT
-[alt text](<Screenshot 2025-04-21 141932.png>)r admin page.
 
+![alt text](<Screenshot 2025-04-21 141932.png>)
 # RESULT
 Thus the program for creating a database using ORM hass been executed successfully
